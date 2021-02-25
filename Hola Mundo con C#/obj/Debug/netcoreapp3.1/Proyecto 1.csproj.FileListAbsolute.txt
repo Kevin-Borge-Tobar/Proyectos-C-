@@ -1,0 +1,13 @@
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\bin\Debug\netcoreapp3.1\Proyecto 1.exe
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\bin\Debug\netcoreapp3.1\Proyecto 1.deps.json
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\bin\Debug\netcoreapp3.1\Proyecto 1.runtimeconfig.json
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\bin\Debug\netcoreapp3.1\Proyecto 1.runtimeconfig.dev.json
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\bin\Debug\netcoreapp3.1\Proyecto 1.dll
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\bin\Debug\netcoreapp3.1\Proyecto 1.pdb
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\obj\Debug\netcoreapp3.1\Proyecto 1.csprojAssemblyReference.cache
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\obj\Debug\netcoreapp3.1\Proyecto 1.AssemblyInfoInputs.cache
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\obj\Debug\netcoreapp3.1\Proyecto 1.AssemblyInfo.cs
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\obj\Debug\netcoreapp3.1\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\obj\Debug\netcoreapp3.1\Proyecto 1.dll
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\obj\Debug\netcoreapp3.1\Proyecto 1.pdb
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyecto 1\obj\Debug\netcoreapp3.1\Proyecto 1.genruntimeconfig.cache
