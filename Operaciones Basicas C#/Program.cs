@@ -28,23 +28,23 @@ namespace operaciones_basicas
             {
                 case "1":
                 resultado = number1 + number2;
-                Console.WriteLine("El Resultado es :   "+ resultado);
+                Console.WriteLine("El Resultado de:    "+number1+" + "+number2+" = "+ resultado+" ");
                 break;
 
                 case "2":
                 resultado = number1 - number2;
-                Console.WriteLine("El Resultado es :   "+ resultado);
+                Console.WriteLine("El Resultado de:    "+number1+" - "+number2+" = "+ resultado+" ");
                 break;
 
                 case "3":
                 resultado = number1 * number2;
-                Console.WriteLine("El Resultado es :   "+ resultado);
+                Console.WriteLine("El Resultado de:    "+number1+"  * "+number2+" = "+ resultado+" ");
                 break;
 
                 case "4":
                     if(number2 != 0){
                         resultado = number1 / number2;
-                        Console.WriteLine("El Resultado es :   "+ resultado);                       
+                        Console.WriteLine("El Resultado de:    "+number1+"  /  "+number2+"  =  "+ resultado+" ");                       
                     }else
                         
                         {
@@ -55,7 +55,7 @@ namespace operaciones_basicas
 
                 case "5":
                 resultado = number1 % number2;
-                Console.WriteLine("El Residuo es :   "+ resultado);
+                 Console.WriteLine("El Residuo de:    "+number1+" % "+number2+" = "+ resultado+" ");
                 break;
 
                 case "6":

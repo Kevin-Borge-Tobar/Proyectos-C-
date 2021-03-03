@@ -1,0 +1,13 @@
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\bin\Debug\netcoreapp3.1\Operaciones Basicas C#.exe
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\bin\Debug\netcoreapp3.1\Operaciones Basicas C#.deps.json
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\bin\Debug\netcoreapp3.1\Operaciones Basicas C#.runtimeconfig.json
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\bin\Debug\netcoreapp3.1\Operaciones Basicas C#.runtimeconfig.dev.json
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\bin\Debug\netcoreapp3.1\Operaciones Basicas C#.dll
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\bin\Debug\netcoreapp3.1\Operaciones Basicas C#.pdb
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\obj\Debug\netcoreapp3.1\Operaciones Basicas C#.csprojAssemblyReference.cache
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\obj\Debug\netcoreapp3.1\Operaciones Basicas C#.AssemblyInfoInputs.cache
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\obj\Debug\netcoreapp3.1\Operaciones Basicas C#.AssemblyInfo.cs
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\obj\Debug\netcoreapp3.1\Operaciones Basicas C#.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\obj\Debug\netcoreapp3.1\Operaciones Basicas C#.dll
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\obj\Debug\netcoreapp3.1\Operaciones Basicas C#.pdb
+C:\Users\Kevin Borge\Documents\Proyectos C#\Proyectos C#\Operaciones Basicas C#\obj\Debug\netcoreapp3.1\Operaciones Basicas C#.genruntimeconfig.cache
