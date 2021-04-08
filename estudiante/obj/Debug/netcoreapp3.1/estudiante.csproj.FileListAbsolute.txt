@@ -1,0 +1,13 @@
+C:\www\proyectos en C#\estudiante\obj\Debug\netcoreapp3.1\estudiante.csprojAssemblyReference.cache
+C:\www\proyectos en C#\estudiante\obj\Debug\netcoreapp3.1\estudiante.AssemblyInfoInputs.cache
+C:\www\proyectos en C#\estudiante\obj\Debug\netcoreapp3.1\estudiante.AssemblyInfo.cs
+C:\www\proyectos en C#\estudiante\obj\Debug\netcoreapp3.1\estudiante.csproj.CoreCompileInputs.cache
+C:\www\proyectos en C#\estudiante\bin\Debug\netcoreapp3.1\estudiante.exe
+C:\www\proyectos en C#\estudiante\bin\Debug\netcoreapp3.1\estudiante.deps.json
+C:\www\proyectos en C#\estudiante\bin\Debug\netcoreapp3.1\estudiante.runtimeconfig.json
+C:\www\proyectos en C#\estudiante\bin\Debug\netcoreapp3.1\estudiante.runtimeconfig.dev.json
+C:\www\proyectos en C#\estudiante\bin\Debug\netcoreapp3.1\estudiante.dll
+C:\www\proyectos en C#\estudiante\bin\Debug\netcoreapp3.1\estudiante.pdb
+C:\www\proyectos en C#\estudiante\obj\Debug\netcoreapp3.1\estudiante.dll
+C:\www\proyectos en C#\estudiante\obj\Debug\netcoreapp3.1\estudiante.pdb
+C:\www\proyectos en C#\estudiante\obj\Debug\netcoreapp3.1\estudiante.genruntimeconfig.cache
